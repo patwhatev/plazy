@@ -16,7 +16,17 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
-print("\nRUNNING\n")
+print("      ___           ___       ___           ___           ___     ")
+print("     /\\  \\         /\\__\\     /\\  \\         /\\  \\         |\\__\\    ")
+print("    /::\  \       /:/  /    /::\  \        \:\  \        |:|  |   ")
+print("   /:/\:\  \     /:/  /    /:/\:\  \        \:\  \       |:|  |   ")
+print("  /::\~\:\  \   /:/  /    /::\~\:\  \        \:\  \      |:|__|__ ")
+print(" /:/\:\ \:\__\ /:/__/    /:/\:\ \:\__\ _______\:\__\     /::::\__\\")
+print(" \/__\:\/:/  / \:\  \    \/__\:\/:/  / \::::::::/__/    /:/~~/~   ")
+print("      \::/  /   \:\  \        \::/  /   \:\~~\~~       /:/  /     ")
+print("       \/__/     \:\  \       /:/  /     \:\  \        \/__/      ")
+print("                  \:\__\     /:/  /       \:\__\                  ")
+print("                   \/__/     \/__/         \/__/                  ")
 
 #PhantomJS
 options = Options()
@@ -37,7 +47,7 @@ print(auth_token)
 sp = spotipy.Spotify(auth=auth_token['access_token'])
 
 # gather input from user on what bands they are into this week
-pref_string = input("What are you into this week? - ")
+pref_string = input("What bands do you like? (use commas if multiple) - ")
 
 # separate on commas
 pref_array = pref_string.split(",")
