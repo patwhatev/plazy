@@ -1,4 +1,4 @@
-SimilarArtists
+Plazy
 =======
 
 A bot that searches similar artists and generates a spotify playlist based on results
