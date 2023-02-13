@@ -1,0 +1,289 @@
+1662923341084	geckodriver	INFO	Listening on 127.0.0.1:52369
+1662923341600	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52370" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofile4mnyzX"
+1662923341949	Marionette	INFO	Marionette enabled
+2022-09-11 15:09:02.487 firefox-bin[75563:2050054] Warning: Expected min height of view: (<NSButton: 0x11d9eac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-09-11 15:09:02.488 firefox-bin[75563:2050054] Warning: Expected min height of view: (<NSButton: 0x12a746c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-09-11 15:09:02.488 firefox-bin[75563:2050054] Warning: Expected min height of view: (<NSButton: 0x12a74c800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-09-11 15:09:02.489 firefox-bin[75563:2050054] Warning: Expected min height of view: (<NSButton: 0x12a745400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-09-11 15:09:02.489 firefox-bin[75563:2050054] Warning: Expected min height of view: (<NSButton: 0x12a749400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-09-11 15:09:02.490 firefox-bin[75563:2050054] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12a74c000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-09-11 15:09:02.491 firefox-bin[75563:2050054] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x11b3e2400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofile4mnyzX/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:52370/devtools/browser/27ba8308-d88f-4984-a8f8-64835eef95b6
+1662923343426	Marionette	INFO	Listening on port 52387
+Read port: 52387
+1662923343448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1662923419200	geckodriver	INFO	Listening on 127.0.0.1:52473
+1662923419714	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52474" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofileKc06SV"
+1662923420054	Marionette	INFO	Marionette enabled
+2022-09-11 15:10:20.601 firefox-bin[75637:2051197] Warning: Expected min height of view: (<NSButton: 0x118bc1c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-09-11 15:10:20.602 firefox-bin[75637:2051197] Warning: Expected min height of view: (<NSButton: 0x1274cd000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-09-11 15:10:20.602 firefox-bin[75637:2051197] Warning: Expected min height of view: (<NSButton: 0x1274c8c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-09-11 15:10:20.603 firefox-bin[75637:2051197] Warning: Expected min height of view: (<NSButton: 0x1274cec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-09-11 15:10:20.603 firefox-bin[75637:2051197] Warning: Expected min height of view: (<NSButton: 0x1274cc000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-09-11 15:10:20.604 firefox-bin[75637:2051197] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1274c7400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-09-11 15:10:20.604 firefox-bin[75637:2051197] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x11706dc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofileKc06SV/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:52474/devtools/browser/9e2d7f91-773f-454d-a394-dd462be1c24b
+1662923421571	Marionette	INFO	Listening on port 52492
+Read port: 52492
+1662923421670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1662923525630	Marionette	INFO	Stopped listening on port 52387
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1662923527160	Marionette	INFO	Stopped listening on port 52492
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1665679027702	geckodriver	INFO	Listening on 127.0.0.1:51677
+1665679028089	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51678" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofile95DMMj"
+2022-10-13 12:37:10.177 plugin-container[58322:876665] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 12:37:10.178 plugin-container[58322:876665] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 12:37:10.228 plugin-container[58322:876665] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 12:37:10.228 plugin-container[58322:876665] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 12:37:10.228 plugin-container[58322:876669] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 12:37:10.228 plugin-container[58322:876669] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665679030229	Marionette	INFO	Marionette enabled
+1665679030341	Marionette	INFO	Listening on port 51690
+Read port: 51690
+WebDriver BiDi listening on ws://127.0.0.1:51678
+1665679030496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofile95DMMj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51678/devtools/browser/6c3c0aae-c228-4a30-913a-dea00c6bdaf6
+2022-10-13 12:37:27.598 firefox-bin[58305:876527] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.music-map.com."
+1665679053813	geckodriver	INFO	Listening on 127.0.0.1:51830
+1665679054283	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51831" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofilevx45pM"
+2022-10-13 12:37:34.772 plugin-container[58540:877646] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 12:37:34.772 plugin-container[58540:877646] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 12:37:34.780 plugin-container[58540:877646] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 12:37:34.780 plugin-container[58540:877646] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 12:37:34.780 plugin-container[58540:877670] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 12:37:34.780 plugin-container[58540:877670] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665679054785	Marionette	INFO	Marionette enabled
+1665679054822	Marionette	INFO	Listening on port 51839
+Read port: 51839
+WebDriver BiDi listening on ws://127.0.0.1:51831
+1665679055149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofilevx45pM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51831/devtools/browser/ae206b7a-b4d4-4b1f-a76c-411d800166de
+2022-10-13 12:37:52.098 firefox-bin[58531:877566] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.music-map.com."
+1665679360043	Marionette	INFO	Stopped listening on port 51839
+1666355967162	Marionette	INFO	Stopped listening on port 51690
+1666684656882	geckodriver	INFO	Listening on 127.0.0.1:54293
+1666684657350	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54294" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofileH6SO5t"
+1666684661641	Marionette	INFO	Marionette enabled
+2022-10-25 03:57:41.646 plugin-container[42674:4657008] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 03:57:41.646 plugin-container[42674:4657008] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 03:57:41.659 plugin-container[42674:4657008] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 03:57:41.659 plugin-container[42674:4657008] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 03:57:41.660 plugin-container[42674:4657012] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 03:57:41.660 plugin-container[42674:4657012] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666684661687	Marionette	INFO	Listening on port 54300
+Read port: 54300
+WebDriver BiDi listening on ws://127.0.0.1:54294
+1666684661946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofileH6SO5t/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54294/devtools/browser/903c4269-3e79-4dc3-a316-6bd94a443384
+1666684730736	Marionette	INFO	Stopped listening on port 54300
+1666686828037	geckodriver	INFO	Listening on 127.0.0.1:55029
+1666686828514	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55030" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofileJCjHR9"
+2022-10-25 04:33:48.942 plugin-container[44233:4664380] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 04:33:48.943 plugin-container[44233:4664380] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 04:33:48.948 plugin-container[44233:4664380] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 04:33:48.948 plugin-container[44233:4664380] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 04:33:48.948 plugin-container[44233:4664404] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 04:33:48.948 plugin-container[44233:4664404] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666686828954	Marionette	INFO	Marionette enabled
+1666686828985	Marionette	INFO	Listening on port 55036
+Read port: 55036
+WebDriver BiDi listening on ws://127.0.0.1:55030
+1666686829187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofileJCjHR9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55030/devtools/browser/3e717ba4-7032-4a74-a7b2-282c4f98505e
+1666697289936	Marionette	INFO	Stopped listening on port 55036
+1674261564734	geckodriver	INFO	Listening on 127.0.0.1:49857
+1674261564811	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49858" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofileXWWK6R"
+1674261570458	Marionette	INFO	Marionette enabled
+1674261571562	Marionette	INFO	Listening on port 49897
+Read port: 49897
+WebDriver BiDi listening on ws://127.0.0.1:49858
+1674261571774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofileXWWK6R/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49858/devtools/browser/cd4a040b-3f0f-4197-ad19-3ed4bc24a897
+2023-01-20 19:39:57.710 firefox-bin[2446:15187] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.music-map.com."
+1674261622764	geckodriver	INFO	Listening on 127.0.0.1:49978
+1674261623239	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49979" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofilemOhDnF"
+1674261623695	Marionette	INFO	Marionette enabled
+1674261623770	Marionette	INFO	Listening on port 49987
+Read port: 49987
+WebDriver BiDi listening on ws://127.0.0.1:49979
+1674261624080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofilemOhDnF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49979/devtools/browser/5b89b8dd-0d39-4a0f-bdf0-8dc4e0fc8693
+1674264032092	Marionette	INFO	Stopped listening on port 49987
+1674264033614	Marionette	INFO	Stopped listening on port 49897
+1676303631878	geckodriver	INFO	Listening on 127.0.0.1:52048
+1676303632316	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52049" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofilejgGGm8"
+1676303634734	Marionette	INFO	Marionette enabled
+1676303635099	Marionette	INFO	Listening on port 52058
+Read port: 52058
+WebDriver BiDi listening on ws://127.0.0.1:52049
+1676303635238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofilejgGGm8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52049/devtools/browser/7a2c9b65-da09-490a-aea3-9251ea567e77
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4bT6diwPPsQGeut8gwoHo0InSaE1h0LXepToI3_IbtM.js line 2 > eval line 5081 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676303754014	Marionette	INFO	Stopped listening on port 52058
+1676312735992	geckodriver	INFO	Listening on 127.0.0.1:54820
+1676312736325	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54821" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofilefwLmHQ"
+1676312736887	Marionette	INFO	Marionette enabled
+1676312736960	Marionette	INFO	Listening on port 54828
+Read port: 54828
+WebDriver BiDi listening on ws://127.0.0.1:54821
+1676312737192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofilefwLmHQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54821/devtools/browser/c33aab4f-9214-4e59-aadb-885b2107f12d
+1676312995545	geckodriver	INFO	Listening on 127.0.0.1:54897
+1676312996029	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54898" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofileYFrc6S"
+1676312996501	Marionette	INFO	Marionette enabled
+1676312996578	Marionette	INFO	Listening on port 54905
+Read port: 54905
+WebDriver BiDi listening on ws://127.0.0.1:54898
+1676312996909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofileYFrc6S/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54898/devtools/browser/8dd8b839-8fdb-449b-9445-0d93ae69830f
+1676313098546	geckodriver	INFO	Listening on 127.0.0.1:54960
+1676313099014	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54961" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofile0yDrvf"
+1676313099485	Marionette	INFO	Marionette enabled
+1676313099556	Marionette	INFO	Listening on port 54968
+Read port: 54968
+WebDriver BiDi listening on ws://127.0.0.1:54961
+1676313099905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofile0yDrvf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54961/devtools/browser/e2239442-e4cc-49cd-a339-1ea0b550aa71
+1676313222007	geckodriver	INFO	Listening on 127.0.0.1:55026
+1676313222481	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55027" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofilePUjrOQ"
+1676313223001	Marionette	INFO	Marionette enabled
+1676313223076	Marionette	INFO	Listening on port 55032
+Read port: 55032
+WebDriver BiDi listening on ws://127.0.0.1:55027
+1676313223398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofilePUjrOQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55027/devtools/browser/40fe29d9-2455-43f0-ab2c-cfcfe4da2afa
+1676313236064	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1676313241896	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4bT6diwPPsQGeut8gwoHo0InSaE1h0LXepToI3_IbtM.js line 2 > eval line 824 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3513: TypeError: data.frameData.id is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967351/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967391/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967394/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967395/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967426/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967427/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967428/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967429/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967432/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967433/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+2023-02-13 13:34:43.219 firefox-bin[39577:758164] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967436/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+1676313382654	geckodriver	INFO	Listening on 127.0.0.1:55333
+1676313383124	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55334" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofilewl214Z"
+1676313383637	Marionette	INFO	Marionette enabled
+1676313383721	Marionette	INFO	Listening on port 55339
+Read port: 55339
+WebDriver BiDi listening on ws://127.0.0.1:55334
+1676313384039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofilewl214Z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55334/devtools/browser/e9c66dc4-51f5-4271-b9f9-7f6508f6fe7e
+1676313391518	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: http://pagead2.googlesyndication.com/pagead/show_ads.js, line 132: Error: no_div
+JavaScript error: http://pagead2.googlesyndication.com/pagead/show_ads.js, line 132: Error: no_div
+JavaScript error: http://pagead2.googlesyndication.com/pagead/show_ads.js, line 132: Error: no_div
+1676313398605	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4bT6diwPPsQGeut8gwoHo0InSaE1h0LXepToI3_IbtM.js line 2 > eval line 1438 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-02-13 13:40:48.419 firefox-bin[39703:760369] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.similar-artist.info."
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Pa3FQa1Op-rzsgWzdRk_U6cBB6Aivrii6CE4opXgiG0.js line 2 > eval line 1035 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676313663420	geckodriver	INFO	Listening on 127.0.0.1:55612
+1676313663895	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55613" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofile53EV6F"
+1676313664390	Marionette	INFO	Marionette enabled
+1676313664467	Marionette	INFO	Listening on port 55618
+Read port: 55618
+WebDriver BiDi listening on ws://127.0.0.1:55613
+1676313664778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofile53EV6F/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55613/devtools/browser/a87a4a19-65d9-4410-896d-9ac06cb8d13b
+1676313674575	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Pa3FQa1Op-rzsgWzdRk_U6cBB6Aivrii6CE4opXgiG0.js line 2 > eval line 7109 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676313971404	geckodriver	INFO	Listening on 127.0.0.1:55982
+1676313971871	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55983" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofileEbi9wG"
+1676313972355	Marionette	INFO	Marionette enabled
+1676313972432	Marionette	INFO	Listening on port 55989
+Read port: 55989
+WebDriver BiDi listening on ws://127.0.0.1:55983
+1676313972778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofileEbi9wG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55983/devtools/browser/27fa8cb3-173a-446e-bfe2-a3f63a83c5ea
+1676313985741	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BCIcmf313WzoCVCbVncOKNc8C4ARuhVvc7JlJ5i6CqM.js line 2 > eval line 1985 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676314038187	geckodriver	INFO	Listening on 127.0.0.1:56226
+1676314038660	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56227" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofile7THQWG"
+1676314039168	Marionette	INFO	Marionette enabled
+1676314039250	Marionette	INFO	Listening on port 56232
+Read port: 56232
+WebDriver BiDi listening on ws://127.0.0.1:56227
+1676314039587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1b/8tr6hw2x697b9v_nr9kdqvqc0000gq/T/rust_mozprofile7THQWG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56227/devtools/browser/1f5d01f2-1f47-4648-843c-2d7f4d43887f
+1676314050749	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1676314061128	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4bT6diwPPsQGeut8gwoHo0InSaE1h0LXepToI3_IbtM.js line 2 > eval line 2176 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
