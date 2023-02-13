@@ -9,6 +9,7 @@ In Terminal/Command Line
 =======
 `pip install spotipy`
 `pip install -U selenium`
+`pip install unidecode` 
 `brew install geckodriver`
 `pip install beautifulsoup4` or `sudo easy_install BeautifulSoup4`
 
